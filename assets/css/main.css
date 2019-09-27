@@ -2677,6 +2677,7 @@ input, select, textarea {
 				text-align: center;
 				text-decoration: none;
 				z-index: 3;
+				text-shadow: 2px 1px #000000;
 			}
 
 				.tiles article > a > :last-child {
@@ -2708,7 +2709,7 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #ff5e00;
 			}
 
 			.tiles article.style2 > .image:before {
