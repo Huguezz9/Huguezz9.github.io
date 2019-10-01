@@ -100,6 +100,8 @@ input, select, textarea {
 
 	body {
 		background-color: #00000f;
+		background-image: url('/images/universe.jpg');
+		background-size: cover;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2677,7 +2679,7 @@ input, select, textarea {
 				text-align: center;
 				text-decoration: none;
 				z-index: 3;
-				text-shadow: 2px 1px #000000;
+				text-shadow: 1px 1px #000000;
 			}
 
 				.tiles article > a > :last-child {
