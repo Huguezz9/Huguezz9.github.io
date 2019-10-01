@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #00000f;
+		/*background-color: #00000f;*/
 		background-image: url('/images/universe.jpg');
 		background-size: cover;
 	}
