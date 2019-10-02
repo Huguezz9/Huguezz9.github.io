@@ -1792,6 +1792,7 @@ input, select, textarea {
 
 	header p {
 		margin-top: -1em;
+		color: rgba(255, 255, 255, 0.541);
 	}
 
 	@media screen and (max-width: 736px) {
@@ -1860,8 +1861,8 @@ input, select, textarea {
 			}
 
 			.icon.style2:hover {
-				color: #f2849e;
-				border-color: #f2849e;
+				color: #e23500;
+				border-color: #e23500;
 			}
 
 			.icon.style2:active {
@@ -2576,7 +2577,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
@@ -3172,7 +3173,9 @@ input, select, textarea {
 
 	#footer {
 		padding: 5em 0 6em 0 ;
-		background-color: #f6f6f6;
+		background-color: #01000ea2;
+		color: white;
+		border-top: 1px solid white;
 	}
 
 		#footer > .inner {
@@ -3210,7 +3213,7 @@ input, select, textarea {
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: rgba(88, 88, 88, 0.5);
+				color: rgba(255, 255, 255, 0.938);
 			}
 
 				#footer > .inner .copyright a {
@@ -3219,7 +3222,7 @@ input, select, textarea {
 
 				#footer > .inner .copyright li {
 					display: inline-block;
-					border-left: solid 1px rgba(88, 88, 88, 0.15);
+					border-left: solid 1px rgb(219, 219, 219)15);
 					line-height: 1;
 					padding: 0 0 0 1em;
 					margin: 0 0 0 1em;
